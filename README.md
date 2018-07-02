@@ -66,8 +66,15 @@ https://aragon.chat/
 
 | Team: [Swarm City](https://thisis.swarm.city/) | Members | Contact | Relevancy 
 | ------- | ------- | ------- | ------
-|<img src="https://cdn.coinranking.com/HJiGDZA1f/swt.svg" width=150 align="right" /> | KikiPluche, KingFlurkel, Xardass | ---- | ------
+|<img src="https://cdn.coinranking.com/HJiGDZA1f/swt.svg" width=150 align="right" /> | KikiPluche, KingFlurkel, Xardass |[Riot](https://riot.im/app)  @kikipluche | General Support, Project recommendations, decentralization, Product design 
 
+### Recources
+- https://www.swarm.city
+- https://thisis.swarm.city/
+- [swarm city philosophy](https://press.swarm.city/niks-moet-2fd1b7682bb8)
+
+### Reach Swarm City
+[Riot](https://riot.im/app/#/room/#swarmcitygeneral:matrix.org)
 
 
 ### The Swag Bag 
