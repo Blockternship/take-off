@@ -28,7 +28,7 @@ If you don't know what to make or don't have an idea where to start, head over t
 Whether you are new to blockchain development or a seasoned vet we want to provide support and learning during the process, so we have designated contact points inside each project for you to reach out to with your questions. 
 
 How to get started: 
-- Submit an issue in the [Projects]( Add Repo ) Repo 
+- Submit an [issue](https://github.com/Blockternship/projects/issues/new?title=Your%20Amazing%20Ethereum%20Idea!!!&body=Tell%20us%20what%20your%20project%20is%20all%20about%20?) in the [Projects](https://github.com/Blockternship/projects) Repo 
 - Then head over to [ChainShot](https://www.chainshot.com/) for all the tools you'll need to build you're own DApp. 
 
 Best way to reach teams:
@@ -77,7 +77,7 @@ https://aragon.chat/
 [Riot](https://riot.im/app/#/room/#swarmcitygeneral:matrix.org)
 
 
-### The Swag Bag 
+# The Swag Bag 
 - A collective bag of 20 ETH granted to the winning teams/projects. 
 - A full page write up about the winning project posted in the community blog. 
 - An invitation to the next Giveth Summit in an exotic but yet undetermined location. 
