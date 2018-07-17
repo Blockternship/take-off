@@ -31,12 +31,10 @@ How to get started:
 - Submit an [issue](https://github.com/Blockternship/projects/issues/new?title=Your%20Amazing%20Ethereum%20Idea!!!&body=Tell%20us%20what%20your%20project%20is%20all%20about%20?) in the [Projects](https://github.com/Blockternship/projects) Repo 
 - Then head over to [ChainShot](https://www.chainshot.com/) for all the tools you'll need to build you're own DApp. 
 
-Best way to reach teams:
-- Join the **Blockternship** team on [Keybase](https://keybase.io/). 
-- Connect directly with the members of the project you want to work with. 
-- Where to ask questions technical questions, Riot=[Social Coding](https://riot.im/app/#/room/#giveth-social-coding:matrix.org)
-
-
+Best place to get started, asking questions, looking for team members, ect:
+- Riot [Social Coding](https://riot.im/app/#/room/#giveth-social-coding:matrix.org) channel. 
+- Join **Blockternship** team on [Keybase](https://keybase.io/). 
+- Connect directly with the members of the project you want to work on through the information below. 
 
 
 
