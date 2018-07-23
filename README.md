@@ -1,5 +1,5 @@
 # The Social Coding "Blockternship" 
-### A distributed social hackathon....so what's that mean 🤔 
+A distributed social hackathon....so what's that mean 🤔 
 
 Well, when you have an open source project it's in your best interest to allow people from all over the world to contribute, afterall that's the meaning of open source, right? 
 
@@ -27,14 +27,13 @@ If you don't know what to make or don't have an idea where to start, head over t
 ### Here to Help
 Whether you are new to blockchain development or a seasoned vet we want to provide support and learning during the process, so we have designated contact points inside each project for you to reach out to with your questions. 
 
-How to get started: 
+### How to get started: 
 - Submit an [issue](https://github.com/Blockternship/projects/issues/new?title=Your%20Amazing%20Ethereum%20Idea!!!&body=Tell%20us%20what%20your%20project%20is%20all%20about%20?) in the [Projects](https://github.com/Blockternship/projects) Repo 
 - Then head over to [ChainShot](https://www.chainshot.com/) for all the tools you'll need to build you're own DApp. 
 
-Best way to reach teams:
-- Join the **Blockternship** team on [Keybase](https://keybase.io/). 
+### Best way to reach teams:
 - Connect directly with the members of the project you want to work with. 
-- Where to ask questions technical questions, Riot=[Social Coding](https://riot.im/app/#/room/#giveth-social-coding:matrix.org)
+- Start looking for contributors and asking technical questions in Riot:[Social Coding](https://riot.im/app/#/room/#giveth-social-coding:matrix.org)
 
 
 
@@ -44,23 +43,21 @@ Best way to reach teams:
 | ------- | ------- | ------- | ------
 |<img src="https://d33wubrfki0l68.cloudfront.net/57fbd091e951dadc2e3aa064df2b75369c719eff/8bd1e/assets/giveth-dac-dark.png" width=150 align="left" /> | [YalorMewn](https://github.com/YalorMewn), [GeleeRoyale](https://github.com/geleeroyale) | [Keybase](https://keybase.io/)  @yalormewn, @GeleeRoyale | General Support, GitHub Questions, Project Reccomendations
 
-### Resources
+#### Resources
 - Giveth [Social Coding Circle](https://riot.im/app/#/room/#giveth-social-coding:matrix.org) 
 
-### Reach Giveth:
-[Riot Matrix](https://riot.im/app/#/group/+giveth:matrix.org)
+#### Reach Giveth: [Riot Matrix](https://riot.im/app/#/group/+giveth:matrix.org)
 
  Team: [Aragon](https://hack.aragon.one) | Members | Contact | Relevancy  
 | ------- | ------- | ------- | ------
 |<img src="https://wiki.aragon.one/design/logo/png/imagetype_vertical@2x.png" width=150 align="left" />   | Luis Cuende, Jorge Izquierdo, Brett Sun, Tatu Kärki | tatu@aragon.one | General Questions, EVM/Solidity & frontend
 
-### Resources
+#### Resources
 - https://blog.aragon.one/releasing-the-aragon-developer-portal-237a8dbc8a48
 - https://hack.aragon.one
 - https://wiki.aragon.one
 
-### Reach Aragon:
-https://aragon.chat/
+#### Reach Aragon: [Aragon Chat](https://aragon.chat/)
 
 
 
@@ -68,14 +65,22 @@ https://aragon.chat/
 | ------- | ------- | ------- | ------
 |<img src="https://cdn.coinranking.com/HJiGDZA1f/swt.svg" width=150 align="right" /> | KikiPluche, KingFlurkel, Xardass |[Riot](https://riot.im/app)  @kikipluche | General Support, Project recommendations, decentralization, Product design 
 
-### Recources
+#### Recources
 - https://www.swarm.city
 - https://thisis.swarm.city/
 - [swarm city philosophy](https://press.swarm.city/niks-moet-2fd1b7682bb8)
 
-### Reach Swarm City
-[Riot](https://riot.im/app/#/room/#swarmcitygeneral:matrix.org)
+#### Reach Swarm City: [Riot](https://riot.im/app/#/room/#swarmcitygeneral:matrix.org)
 
+| Team: [Status](https://status.im/) | Members | Contact | Relevancy 
+| ------- | ------- | ------- | ------
+| <img src="http://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/1024/Status-SNT-icon.png" width=120 align="right" /> | 
+
+#### Resources: 
+- https://embark.status.im/
+- 
+
+#### Reach Status: [Riot](https://chat.status.im/#/room/#general:status.im) 
 
 # The Swag Bag 
 - A collective bag of 20 ETH granted to the winning teams/projects. 
@@ -85,26 +90,34 @@ https://aragon.chat/
 # Key Dates 
 
 
-**July 15th**  
+## **July 15th**  
 Open for submissions, arrange teams, review project proposals, define products/roles/etc.
 
 
-**August 7th**  
+## **August 7th**  
 Submissions Closed, Buidl phase starts, contributors split into working groups, start building and forking over repositories into the blockternship repo.
 
-- **Aug 21st** (First code review, bounty assignment, feedback, open team call) 
+- **August 20th** (Swarm City, open call: Volunteerism.) 
 
-- **Sept 4th** (Second code review, bounty funding, feedback, open team call) 
+## **Aug 21st** 
+(First code review, bounty assignment, feedback, open team call) 
 
-- **Sept 18th** (Third code review bounty funding, feedback, open team call) 
+## **Sept 4th** 
+(Second code review, bounty funding, feedback, open team call) 
 
-- **Oct 2nd** (Fourth code review bounty funding, feedback, open team call) 
+- **Sept 14th** (Swarm City, open call: Philosophy of Episodes, How to Make Others Build Your Dream)    
+
+## **Sept 18th** 
+(Third code review bounty funding, feedback, open team call) 
+
+## **Oct 2nd** 
+(Fourth code review bounty funding, feedback, open team call) 
 
 
-**October 9th** 
+## **October 9th** 
 
 End buidl phase. Project entries must be complete and submitted for review. Teams judged and evaluated by panel of individuals from sponsorship organizations. 
 
-**October - November** 
+## **October - November** 
 
 Winners announced and awarded prize ETH. 
