@@ -3,17 +3,17 @@ A distributed social hackathon....so what's that mean 🤔
 
 Well, when you have an open source project it's in your best interest to allow people from all over the world to contribute, afterall that's the meaning of open source, right? 
 
-So our idea was to host a hackathon, where anyone could contribute, collaborate and create projects directly into one [organization](https://github.com/Blockternship) and we would fund bounties and provide review code in real time. 
+So our idea was to host a hackathon, where anyone could contribute, collaborate and create projects directly into one [organization](https://github.com/Blockternship) and we would fund bounties and provide code review in real time. 
 
 Our goal with this invitingly open source initiative is to inspire and educate incoming developers! 
 
 # The Run Down 
 
-Aragon, Swarm City and Chain Shot and Giveth are forming an alliance to kick start aspiring developers through a 2 month distributed hackathon, our intention is to open up our communities by providing resources, education and bounties to anyone who wants to start building on the Ethereum Blockchain.
+Aragon, Swarm City, Status and Giveth together with Chain Shot as the educational resource are forming an alliance to kick start aspiring developers through a 2 month distributed hackathon, our intention is to open up our communities by providing teaching sessions, education and bounties to anyone who wants to start #buidling on the Ethereum Blockchain.
 
 ### Does My Project Apply? 
 
-We are pretty open minded when it comes to submissions, but there are a few requirements you'll need to be considered. 
+We are pretty open minded when it comes to submissions, but there are a few requirements you'll need to consider. 
 
 ### Must Haves
 - Be open source. 
@@ -25,7 +25,7 @@ If you don't know what to make or don't have an idea where to start, head over t
 
 
 ### Here to Help
-Whether you are new to blockchain development or a seasoned vet we want to provide support and learning during the process, so we have designated contact points inside each project for you to reach out to with your questions. 
+Whether you are new to blockchain development or a seasoned vet we want to provide support and learning during the process, so we have designated contact points inside each project for you to reach out to with questions. 
 
 ### How to get started 
 - Submit an [issue](https://github.com/Blockternship/projects/issues/new?title=Your%20Amazing%20Ethereum%20Idea!!!&body=Tell%20us%20what%20your%20project%20is%20all%20about%20?) in the [Projects](https://github.com/Blockternship/projects) Repo 
@@ -82,7 +82,7 @@ Whether you are new to blockchain development or a seasoned vet we want to provi
 ## Then head over to [ChainShot]() for all the tools you'll need to build you're own DApp. 
 | Team: [Chainshot](https://www.chainshot.com/) | Members | Contact | Relevancy 
 | ------- | ------- | ------- | ------
-| <img src="https://pbs.twimg.com/profile_images/1009611297359425537/pQWoY8kA_400x400.jpg" width=120 align="right" /> | Dan Nolan, Cody McCabe | @beingdannolan, @codymccabe | Educational Resource 
+| <img src="https://pbs.twimg.com/profile_images/1009611297359425537/pQWoY8kA_400x400.jpg" width=120 align="right" /> | Dan Nolan, Cody McCabe | Keybase: @beingdannolan, @codymccabe | Educational Resources, Building Framework, Course Access | 
 
 ### Reach Chainshot: [Slack Channel](https://join.slack.com/t/chainshotnodes/shared_invite/enQtMzU3ODc5NTM3MTI3LTFlZTY1YzcwM2QzYWI0ODY2ZDczMmYzOTVlYWQwZjkyZDFlYzUxZWM4NDNlNjk3N2EyNGMwOGQ0ZTVkZjQyNjE)  
 Jump on our Slack and ask us any questions you have in regards to building dapps! We’d be especially happy to see people beginning their dapp development by running through the ChainShot Escrow learning module and using it as the base for their project :)
@@ -107,19 +107,23 @@ Open for submissions, arrange teams, review project proposals, define products/r
 ## **August 7th**  
 Submissions Closed, Buidl phase starts, contributors split into working groups, start building and forking over repositories into the blockternship repo.
 
+**Bonus session #1** 
 (Dmitry Buterin: 2pm EDT/8pm CEST, Q & A: The Real Deal) 
-
-- **August 20th** (Swarm City, open call: Volunteerism.) 
+ 
+**Bonus session #2** 
+**August 20th** (Swarm City, open call: Volunteerism.) 
 
 ## **Aug 21st** 
 (First code review, bounty assignment, feedback, open team call) 
 
-- **August 22nd** (ChainShot: 11am EDT/5pm CEST, Live Teaching Session)  
+**Bonus session #3** 
+**August 22nd** (ChainShot: 11am EDT/5pm CEST, Live Teaching Session)  
 
 ## **Sept 4th** 
 (Second code review, bounty funding, feedback, open team call) 
 
-- **Sept 14th** (Swarm City, open call: Philosophy of Episodes, How to Make Others Build Your Dream)    
+**Bonus session #4** 
+**Sept 14th** (Swarm City, open call: Philosophy of Episodes, How to Make Others Build Your Dream)    
 
 ## **Sept 18th** 
 (Third code review bounty funding, feedback, open team call) 
