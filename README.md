@@ -40,7 +40,7 @@ Best place to get started, asking questions, looking for team members, ect:
 
 | Team: [Giveth](https://giveth.io/) | Members | Contact | Relevancy 
 | ------- | ------- | ------- | ------
-|<img src="https://d33wubrfki0l68.cloudfront.net/57fbd091e951dadc2e3aa064df2b75369c719eff/8bd1e/assets/giveth-dac-dark.png" width=150 align="left" /> | [YalorMewn](https://github.com/YalorMewn), [GeleeRoyale](https://github.com/geleeroyale) | [Keybase](https://keybase.io/)  @yalormewn, @GeleeRoyale | General Support, GitHub Questions, Project Reccomendations
+|<img src="https://d33wubrfki0l68.cloudfront.net/57fbd091e951dadc2e3aa064df2b75369c719eff/8bd1e/assets/giveth-dac-dark.png" width=150 align="left" /> | [Deam](https://github.com/deamme), [Quazia](https://github.com/quazia) [YalorMewn](https://github.com/YalorMewn), [GeleeRoyale](https://github.com/geleeroyale) | [Keybase](https://keybase.io/)  @yalormewn, @GeleeRoyale | General Support, GitHub Questions, Project Reccomendations
 
 ### Resources
 - Giveth [Social Coding Circle](https://riot.im/app/#/room/#giveth-social-coding:matrix.org) 
