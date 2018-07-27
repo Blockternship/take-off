@@ -40,17 +40,17 @@ Best place to get started, asking questions, looking for team members, ect:
 
 | Team: [Giveth](https://giveth.io/) | Members | Contact | Relevancy 
 | ------- | ------- | ------- | ------
-|<img src="https://d33wubrfki0l68.cloudfront.net/57fbd091e951dadc2e3aa064df2b75369c719eff/8bd1e/assets/giveth-dac-dark.png" width=150 align="left" /> | [Deam](https://github.com/deamme), [Quazia](https://github.com/quazia) [YalorMewn](https://github.com/YalorMewn), [GeleeRoyale](https://github.com/geleeroyale) | [Keybase](https://keybase.io/)  @yalormewn, @GeleeRoyale | General Support, GitHub Questions, Project Reccomendations
+|<img src="https://d33wubrfki0l68.cloudfront.net/57fbd091e951dadc2e3aa064df2b75369c719eff/8bd1e/assets/giveth-dac-dark.png" width=150 align="left" /> | [Deam](https://github.com/deamme), [Quazia](https://github.com/quazia) [YalorMewn](https://github.com/YalorMewn), [GeleeRoyale](https://github.com/geleeroyale) | Riot:  @yalormewn:matrix.org, @GeleeRoyale:matrix.org | General Support, GitHub Questions, Project Reccomendations
 
 ### Resources
-- Giveth [Social Coding Circle](https://riot.im/app/#/room/#giveth-social-coding:matrix.org) 
+- Everything happens in the Giveth [Social Coding Circle](https://riot.im/app/#/room/#giveth-social-coding:matrix.org) come join us there. 
 
 ### Reach Giveth:
 [Riot Matrix](https://riot.im/app/#/group/+giveth:matrix.org)
 
  Team: [Aragon](https://hack.aragon.one) | Members | Contact | Relevancy  
 | ------- | ------- | ------- | ------
-|<img src="https://wiki.aragon.one/design/logo/png/imagetype_vertical@2x.png" width=150 align="left" />   | Luis Cuende, Jorge Izquierdo, Brett Sun, Tatu Kärki | tatu@aragon.one | General Questions, EVM/Solidity & frontend
+|<img src="https://wiki.aragon.one/design/logo/png/imagetype_vertical@2x.png" width=150 align="left" />   | Luis Cuende, Jorge Izquierdo, Brett Sun, Tatu Kärki | Aragon.chat  @sohkai, @Tatu | General Questions, EVM/Solidity & frontend
 
 ### Resources
 - https://blog.aragon.one/releasing-the-aragon-developer-portal-237a8dbc8a48
