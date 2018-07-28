@@ -71,13 +71,13 @@ Whether you are new to blockchain development or a seasoned vet we want to provi
 
 | Team: [Status](https://status.im/) | Members | Contact | Relevancy 
 | ------- | ------- | ------- | ------
-| <img src="http://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/1024/Status-SNT-icon.png" width=120 align="right" /> | 
+| <img src="http://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/1024/Status-SNT-icon.png" width=120 align="right" /> | Iuri Matias | [Gitter](https://gitter.im/embark-framework/Lobby) @iurimatias | General Support, DApp Development
 
 #### Resources: 
 - https://embark.status.im/
 - 
 
-#### Reach Status: [Riot](https://chat.status.im/#/room/#general:status.im) 
+#### Reach Status: [Riot](https://chat.status.im/#/room/#general:status.im) or [Gitter](https://gitter.im/embark-framework/Lobby)
 
 ## Then head over to [ChainShot]() for all the tools you'll need to build you're own DApp. 
 | Team: [Chainshot](https://www.chainshot.com/) | Members | Contact | Relevancy 
