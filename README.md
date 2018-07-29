@@ -29,25 +29,21 @@ Whether you are new to blockchain development or a seasoned vet we want to provi
 
 ### How to get started 
 - Submit an [issue](https://github.com/Blockternship/projects/issues/new?title=Your%20Amazing%20Ethereum%20Idea!!!&body=Tell%20us%20what%20your%20project%20is%20all%20about%20?) in the [Projects](https://github.com/Blockternship/projects) Repo 
-- Connect directly with the members of the project you want to work with. 
-- Start looking for contributors and asking technical questions in Riot:[Social Coding](https://riot.im/app/#/room/#giveth-social-coding:matrix.org)
-
 
 
 
 
 | Team: [Giveth](https://giveth.io/) | Members | Contact | Relevancy 
 | ------- | ------- | ------- | ------
-|<img src="https://d33wubrfki0l68.cloudfront.net/57fbd091e951dadc2e3aa064df2b75369c719eff/8bd1e/assets/giveth-dac-dark.png" width=150 align="left" /> | [YalorMewn](https://github.com/YalorMewn), [GeleeRoyale](https://github.com/geleeroyale) | [Keybase](https://keybase.io/)  @yalormewn, @GeleeRoyale | General Support, GitHub Questions, Project Reccomendations
+|<img src="https://d33wubrfki0l68.cloudfront.net/57fbd091e951dadc2e3aa064df2b75369c719eff/8bd1e/assets/giveth-dac-dark.png" width=150 align="left" /> | [Deam](https://github.com/deamme), [Quazia](https://github.com/quazia) [YalorMewn](https://github.com/YalorMewn), [GeleeRoyale](https://github.com/geleeroyale) | Riot:  @yalormewn:matrix.org, @GeleeRoyale:matrix.org | General Support, GitHub Questions, Project Reccomendations
 
-#### Resources
-- https://wiki.giveth.io/ 
+
 
 #### Reach Giveth: [Riot General](https://riot.im/app/#/group/+giveth:matrix.org) and [Social Coding](https://riot.im/app/#/room/#giveth-social-coding:matrix.org) 
 
  Team: [Aragon](https://hack.aragon.one) | Members | Contact | Relevancy  
 | ------- | ------- | ------- | ------
-|<img src="https://wiki.aragon.one/design/logo/png/imagetype_vertical@2x.png" width=150 align="left" />   | Luis Cuende, Jorge Izquierdo, Brett Sun, Tatu Kärki | tatu@aragon.one | General Questions, EVM/Solidity & frontend
+|<img src="https://wiki.aragon.one/design/logo/png/imagetype_vertical@2x.png" width=150 align="left" />   | Luis Cuende, Jorge Izquierdo, Brett Sun, Tatu Kärki | Aragon.chat  @sohkai, @Tatu | General Questions, EVM/Solidity & frontend
 
 #### Resources
 - https://blog.aragon.one/releasing-the-aragon-developer-portal-237a8dbc8a48
