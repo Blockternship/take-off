@@ -21,7 +21,7 @@ We are pretty open minded when it comes to submissions, but there are a few requ
 - Must not have external funding for development. 
 - Deploy a working MVP to the [GitHub Organization](https://github.com/Blockternship)
 
-If you don't know what to make or don't have an idea where to start, head over to http://socialcoding.tk/ to check out projects that are currently under developement or have come to fruition through the Social Coding Circle. 
+If you don't know what to make or don't have an idea where to start, head over to http://socialcoding.tk/ to check out projects that are currently under developement or have come to fruition through the Social Coding Circle.- Everything happens in the Giveth [Social Coding Circle](https://riot.im/app/#/room/#giveth-social-coding:matrix.org) so please come join us there and start asking questions.   
 
 
 ### Here to Help
