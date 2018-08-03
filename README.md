@@ -75,12 +75,11 @@ Whether you are new to blockchain development or a seasoned vet we want to provi
 
 #### Reach Status: [Riot](https://chat.status.im/#/room/#general:status.im) or [Gitter](https://gitter.im/embark-framework/Lobby)
 
-## Then head over to [ChainShot]() for all the tools you'll need to build you're own DApp.
 | Team: [Chainshot](https://www.chainshot.com/) | Members | Contact | Relevancy
 | ------- | ------- | ------- | ------
 | <img src="https://pbs.twimg.com/profile_images/1009611297359425537/pQWoY8kA_400x400.jpg" width=120 align="right" /> | Dan Nolan, Cody McCabe | Keybase: @beingdannolan, @codymccabe | Educational Resources, Building Framework, Course Access |
 
-### Reach Chainshot: [Slack Channel](https://join.slack.com/t/chainshotnodes/shared_invite/enQtMzU3ODc5NTM3MTI3LTFlZTY1YzcwM2QzYWI0ODY2ZDczMmYzOTVlYWQwZjkyZDFlYzUxZWM4NDNlNjk3N2EyNGMwOGQ0ZTVkZjQyNjE)  
+#### Reach Chainshot: [Slack Channel](https://join.slack.com/t/chainshotnodes/shared_invite/enQtMzU3ODc5NTM3MTI3LTFlZTY1YzcwM2QzYWI0ODY2ZDczMmYzOTVlYWQwZjkyZDFlYzUxZWM4NDNlNjk3N2EyNGMwOGQ0ZTVkZjQyNjE)  
 Jump on our Slack and ask us any questions you have in regards to building dapps! We’d be especially happy to see people beginning their dapp development by running through the ChainShot Escrow learning module and using it as the base for their project :)
 
 #### Resources:
