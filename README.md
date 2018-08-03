@@ -78,7 +78,7 @@ Whether you are new to blockchain development or a seasoned vet we want to provi
 ## Then head over to [ChainShot]() for all the tools you'll need to build you're own DApp.
 | Team: [Chainshot](https://www.chainshot.com/) | Members | Contact | Relevancy
 | ------- | ------- | ------- | ------
-| <img src="https://pbs.twimg.com/profile_images/1009611297359425537/pQWoY8kA_400x400.jpg" width=120 align="right" /> | Dan Nolan, Cody McCabe | Keybase: @beingdannolan, @codymccabe | Educational Resources, Building Framework, Course Access | 
+| <img src="https://pbs.twimg.com/profile_images/1009611297359425537/pQWoY8kA_400x400.jpg" width=120 align="right" /> | Dan Nolan, Cody McCabe | Keybase: @beingdannolan, @codymccabe | Educational Resources, Building Framework, Course Access |
 
 ### Reach Chainshot: [Slack Channel](https://join.slack.com/t/chainshotnodes/shared_invite/enQtMzU3ODc5NTM3MTI3LTFlZTY1YzcwM2QzYWI0ODY2ZDczMmYzOTVlYWQwZjkyZDFlYzUxZWM4NDNlNjk3N2EyNGMwOGQ0ZTVkZjQyNjE)  
 Jump on our Slack and ask us any questions you have in regards to building dapps! We’d be especially happy to see people beginning their dapp development by running through the ChainShot Escrow learning module and using it as the base for their project :)
@@ -90,8 +90,9 @@ Jump on our Slack and ask us any questions you have in regards to building dapps
 | ------- | ------- | ------- | ------
 |<img src="https://raw.githubusercontent.com/JoinColony/colonyHackathon/master/docs/logo_primary.png" width=150 align="right" /> | gichiba, ryanchristo |[Riot](https://riot.im/app)  @gichiba | General Support, Project recommendations, ColonyJS support.
 
-#### Recources
+#### Resources
 - https://docs.colony.io
+- https://github.com/JoinColony/hackathonStarter
 
 #### Reach Colony: [Gitter](https://gitter.im/JoinColony/colonyNetwork), [Social Coding Riot](https://riot.im/app/#/room/#giveth-social-coding:matrix.org)
 
