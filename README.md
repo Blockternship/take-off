@@ -9,7 +9,7 @@ Our goal with this invitingly open source initiative is to inspire and educate i
 
 # The Run Down
 
-Aragon, Swarm City, Status and Giveth together with Chain Shot as the educational resource are forming an alliance to kick start aspiring developers through a 2 month distributed hackathon, our intention is to open up our communities by providing teaching sessions, education and bounties to anyone who wants to start #buidling on the Ethereum Blockchain.
+Aragon, Swarm City, Status, Giveth and Colony together with Chain Shot as the educational resource and the support of the Ethereum Community Fund are forming an alliance to kick start aspiring developers through a 2 month distributed hackathon, our intention is to open up our communities by providing teaching sessions, education and bounties to anyone who wants to start #buidling on the Ethereum Blockchain.
 
 ### Does My Project Apply?
 
@@ -29,8 +29,6 @@ Whether you are new to blockchain development or a seasoned vet we want to provi
 
 ### How to get started
 - Submit an [issue](https://github.com/Blockternship/projects/issues/new?title=Your%20Amazing%20Ethereum%20Idea!!!&body=Tell%20us%20what%20your%20project%20is%20all%20about%20?) in the [Projects](https://github.com/Blockternship/projects) Repo
-
-
 
 
 | Team: [Giveth](https://giveth.io/) | Members | Contact | Relevancy
@@ -114,22 +112,22 @@ Submissions Closed, Buidl phase starts, contributors split into working groups, 
 **Bonus session #1**
 (Dmitry Buterin: 2pm EDT/8pm CEST, Q & A: The Real Deal)
 
- **Bonus session #1**
+ **Bonus session #2**
 **August 9th** (11am EDT/5pm CEST ChainShot Live Teaching Session) 
 
-**Bonus session #2**
+**Bonus session #3**
 **August 20th** (Swarm City, open call: Volunteerism.)
 
 ## **Aug 21st**
 (First code review, bounty assignment, feedback, open team call)
 
-**Bonus session #3**
+**Bonus session #4**
 **August 22nd** (ChainShot: 11am EDT/5pm CEST, Live Teaching Session)  
 
 ## **Sept 4th**
 (Second code review, bounty funding, feedback, open team call)
 
-**Bonus session #4**
+**Bonus session #5**
 **Sept 14th** (Swarm City, open call: Philosophy of Episodes, How to Make Others Build Your Dream)    
 
 ## **Sept 18th**
