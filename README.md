@@ -114,6 +114,9 @@ Submissions Closed, Buidl phase starts, contributors split into working groups, 
 **Bonus session #1**
 (Dmitry Buterin: 2pm EDT/8pm CEST, Q & A: The Real Deal)
 
+ **Bonus session #1**
+**August 9th** (11am EDT/5pm CEST ChainShot Live Teaching Session) 
+
 **Bonus session #2**
 **August 20th** (Swarm City, open call: Volunteerism.)
 
