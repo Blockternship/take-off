@@ -88,8 +88,10 @@ Jump on our Slack and ask us any questions you have in regards to building dapps
 
 
 
+
 # The Swag Bag 💰
-- A collective bag of 20 ETH granted to the winning teams/projects. 
+- 20 ETH granted to the winning teams/projects. 
+- 15 ETH in bounties that will be assigned as project make progress. 
 - A full page write up about the winning project posted in the community blog. 
 - An invitation to the next Giveth Summit in an exotic but yet undetermined location. 
 
@@ -106,23 +108,25 @@ Submissions Closed, Buidl phase starts, contributors split into working groups, 
 **Bonus session #1** 
 (Dmitry Buterin: 2pm EDT/8pm CEST, Q & A: The Real Deal) 
 
+**Bonus session #2**
+**August 9th** (ChainShot: 11am EDT/5pm CEST, Live Teaching Session) 
 
 ## **Aug 21st** 
 (First code review, bounty assignment, feedback, open team call) 
 
-**Bonus session #3** 
+**Bonus session #2** 
 **August 22nd** (ChainShot: 11am EDT/5pm CEST, Live Teaching Session)  
 
 ## **Sept 4th** 
 (Second code review, bounty funding, feedback, open team call) 
 
-**Bonus session #4** 
+**Bonus session #3** 
 **Sept 14th** (Swarm City, open call: Philosophy of Episodes, How to Make Others Build Your Dream)    
 
 ## **Sept 18th** 
 (Third code review bounty funding, feedback, open team call) 
 
-**Bonus session #2** 
+**Bonus session #4** 
 **September 3rd** (Matt Carano of Swarm City, open call: Building A Team Around Voluntary Interactions) 
 
 ## **Oct 2nd** 
