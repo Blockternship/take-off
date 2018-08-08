@@ -91,7 +91,7 @@ Jump on our Slack and ask us any questions you have in regards to building dapps
 
 # The Swag Bag 💰
 - 20 ETH granted to the winning teams/projects. 
-- 15 ETH in bounties that will be assigned as project make progress. 
+- 15 ETH in bounties that will be assigned as projects make progress. 
 - A full page write up about the winning project posted in the community blog. 
 - An invitation to the next Giveth Summit in an exotic but yet undetermined location. 
 
