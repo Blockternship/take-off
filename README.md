@@ -105,9 +105,7 @@ Submissions Closed, Buidl phase starts, contributors split into working groups, 
 
 **Bonus session #1** 
 (Dmitry Buterin: 2pm EDT/8pm CEST, Q & A: The Real Deal) 
- 
-**Bonus session #2** 
-**August 20th** (Swarm City, open call: Volunteerism.) 
+
 
 ## **Aug 21st** 
 (First code review, bounty assignment, feedback, open team call) 
@@ -123,6 +121,9 @@ Submissions Closed, Buidl phase starts, contributors split into working groups, 
 
 ## **Sept 18th** 
 (Third code review bounty funding, feedback, open team call) 
+
+**Bonus session #2** 
+**September 3rd** (Matt Carano of Swarm City, open call: Building A Team Around Voluntary Interactions) 
 
 ## **Oct 2nd** 
 (Fourth code review bounty funding, feedback, open team call) 
