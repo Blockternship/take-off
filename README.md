@@ -94,10 +94,12 @@ Jump on our Slack and ask us any questions you have in regards to building dapps
 #### Reach Colony: [Gitter](https://gitter.im/JoinColony/colonyNetwork), [Social Coding Riot](https://riot.im/app/#/room/#giveth-social-coding:matrix.org)
 
 
+
 # The Swag Bag 💰
 - A collective bag of 20 ETH granted to the winning teams/projects.
 - A full page write up about the winning project posted in the community blog.
 - An invitation to the next Giveth Summit in an exotic but yet undetermined location.
+
 
 # Key Dates 📆
 
@@ -122,18 +124,23 @@ Submissions Closed, Buidl phase starts, contributors split into working groups, 
 (First code review, bounty assignment, feedback, open team call)
 
 **Bonus session #4**
+
 **August 22nd** (ChainShot: 11am EDT/5pm CEST, Live Teaching Session)  
 
 ## **Sept 4th**
 (Second code review, bounty funding, feedback, open team call)
 
 **Bonus session #5**
+
 **Sept 14th** (Swarm City, open call: Philosophy of Episodes, How to Make Others Build Your Dream)    
 
 ## **Sept 18th**
 (Third code review bounty funding, feedback, open team call)
 
-## **Oct 2nd**
+**Bonus session #4** 
+**September 3rd** (Matt Carano of Swarm City, open call: Building A Team Around Voluntary Interactions) 
+
+## **Oct 2nd** 
 (Fourth code review bounty funding, feedback, open team call)
 
 
