@@ -117,27 +117,26 @@ Submissions Closed, Buidl phase starts, contributors split into working groups, 
  **Bonus session #2**
 **August 9th** (11am EDT/5pm CEST ChainShot Live Teaching Session) 
 
-**Bonus session #3**
-**August 20th** (Swarm City, open call: Volunteerism.)
+
 
 ## **Aug 21st**
 (First code review, bounty assignment, feedback, open team call)
 
-**Bonus session #4**
+**Bonus session #3**
 
 **August 22nd** (ChainShot: 11am EDT/5pm CEST, Live Teaching Session)  
 
 ## **Sept 4th**
 (Second code review, bounty funding, feedback, open team call)
 
-**Bonus session #5**
+**Bonus session #4**
 
 **Sept 14th** (Swarm City, open call: Philosophy of Episodes, How to Make Others Build Your Dream)    
 
 ## **Sept 18th**
 (Third code review bounty funding, feedback, open team call)
 
-**Bonus session #4** 
+**Bonus session #5** 
 **September 3rd** (Matt Carano of Swarm City, open call: Building A Team Around Voluntary Interactions) 
 
 ## **Oct 2nd** 
