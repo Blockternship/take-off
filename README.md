@@ -126,6 +126,10 @@ Submissions Closed, Buidl phase starts, contributors split into working groups, 
 
 **August 22nd** (ChainShot: 11am EDT/5pm CEST, Live Teaching Session)  
 
+**Bonus session #5** 
+
+**September 3rd** (Matt Carano of Swarm City, open call: Building A Team Around Voluntary Interactions) 
+
 ## **Sept 4th**
 (Second code review, bounty funding, feedback, open team call)
 
@@ -136,8 +140,6 @@ Submissions Closed, Buidl phase starts, contributors split into working groups, 
 ## **Sept 18th**
 (Third code review bounty funding, feedback, open team call)
 
-**Bonus session #5** 
-**September 3rd** (Matt Carano of Swarm City, open call: Building A Team Around Voluntary Interactions) 
 
 ## **Oct 2nd** 
 (Fourth code review bounty funding, feedback, open team call)
